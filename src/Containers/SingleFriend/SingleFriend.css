@@ -1,0 +1,24 @@
+.img{
+    width: 50%;
+    border-radius: 500px;
+}
+
+.friend-cart{
+    /* display: grid;
+    grid-template-columns: repeat(4, 1fr); */
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 15px;
+    font-weight: bold;
+    background-color: rgb(92, 65, 7);
+    color: white;
+    box-shadow:  10px 10px 8px 10px ;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);
+}
+.btn-style{
+    background-color: rgb(227, 93, 52);
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
